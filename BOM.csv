@@ -1,0 +1,19 @@
+Azonosító,Jelölés,Csomag,Mennyiség,Elnevezés,Szállító és referencia
+2,"D7,D6,D5,D4",SMBJ5.0CA-E3_52,4,SMBJ5.0CA-E3_52,https://hu.farnell.com/vishay/smbj5-0ca-e3-52/diode-tvs-600w-5v-bidir-smb/dp/1698882?st=smbj5.0ca-e3/52
+3,C2,T491A,1,T491A106K010AT,https://hu.farnell.com/kemet/t491a106k010at/cap-10-f-10v-10-1206-smd/dp/1457413?st=10%20uf%20tantalum%20capacitor
+4,J2,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04,"nem kell csatlakozó, mert inkább forrasszunk kábelt"
+5,J1,DS1037_01_09FNAKSI74,1,DS1037-01-09FNAKSI74,https://www.hestore.hu/prod_10040587.html
+6,U1,SOIC-8_3.9x4.9mm_P1.27mm,1,MAX490E,https://hu.farnell.com/maxim-integrated-products/max490esa-t/slew-rate-limited-rs-485-rs-422/dp/3596311?st=max490e
+7,"R11,R10,R9",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,3,1k,https://www.hestore.hu/prod_10000256.html
+8,"R8,R7",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,2,120,https://www.hestore.hu/prod_10035936.html
+9,"R6,R5,R4,R3",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,4,10,https://www.hestore.hu/prod_10000781.html
+10,R2,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,4k7,https://www.hestore.hu/prod_10000299.html
+11,R1,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,10k,https://www.hestore.hu/prod_10000297.html
+12,Q1,SOT-23,1,BC847,https://www.hestore.hu/prod_10020906.html
+13,"D3,D2,D1",LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,3,LED,https://www.hestore.hu/prod_10034481.html
+14,C1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,0.1uF,https://www.hestore.hu/prod_10001122.html
+,,,,,
+,,,,,
+,,,,,EGYÉB:
+,,,,,https://www.hestore.hu/prod_10023204.html
+,,,,,https://www.hestore.hu/prod_10030084.html
