@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name DS1037_01_09FNAKSI74)(type KiCad)(uri ${KIPRJMOD}/lib/DS1037_01_09FNAKSI74/DS1037_01_09FNAKSI74.pretty)(options "")(descr ""))
+  (lib (name T491A106K010AT)(type KiCad)(uri ${KIPRJMOD}/lib/T491A106K010AT/T491A106K010AT.pretty)(options "")(descr ""))
+  (lib (name SMBJ5.0CA-E3_52)(type KiCad)(uri ${KIPRJMOD}/lib/SMBJ5.0CA-E3_52/SMBJ5.0CA-E3_52.pretty)(options "")(descr ""))
+)

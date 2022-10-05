@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model T491A106K010AT
+#/168040/156723/2.49/2/2/Capacitor Polarised
+DEF T491A106K010AT C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "T491A106K010AT" 350 150 50 H V L CNN
+F2 "T491A" 350 50 50 H I L CNN
+F3 "https://content.kemet.com/datasheets/KEM_T2005_T491.pdf" 350 -50 50 H I L CNN
+F4 "T491, Tantalum, MnO2 Tantalum, Commercial Grade, 10 uF, 10%, 10 VDC, 125C, -55C, 85C, SMD, MnO2, Molded, 6 % , 3.8 Ohms, 1000 nA, 58.6 mg, 3216, 1.6mm, Height Max = 1.8mm, 2000, 156  Weeks" 350 -150 50 H I L CNN "Description"
+F5 "1.8" 350 -250 50 H I L CNN "Height"
+F6 "KEMET" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "T491A106K010AT" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "80-T491A106K010" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/KEMET/T491A106K010AT?qs=VCf6WUQjPgE2CESwzh%252BRVg%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "T491A106K010AT" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/t491a106k010at/kemet-corporation?region=nac" 350 -850 50 H I L CNN "Arrow Price/Stock"
+F12 "" 350 -950 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 350 -1050 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+ENDDRAW
+ENDDEF
+#
+#End Library

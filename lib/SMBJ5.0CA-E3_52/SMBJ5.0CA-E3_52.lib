@@ -1,0 +1,51 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Vishay SMBJ5.0CA-E3/52
+#
+DEF SMBJ5.0CA-E3_52 D 0 40 Y Y 1 L N
+F0 "D" 0 200 50 H V L CNN 
+F1 "SMBJ5.0CA-E3/52" 0 300 50 H V L CNN 
+F2 "Vishay-95401-07_2010-0-*" 0 400 50 H I L CNN 
+F3 "https://www.vishay.com/docs/88392/smbj.pdf" 0 500 50 H I L CNN 
+F4 "6.4V" 0 600 50 H I L CNN "breakdown voltage"
+F5 "Diode" 0 700 50 H I L CNN "category"
+F6 "9.2V" 0 800 50 H I L CNN "clamping voltage"
+F7 "Circuit Protection" 0 900 50 H I L CNN "device class L1"
+F8 "TVS Diodes" 0 1000 50 H I L CNN "device class L2"
+F9 "unset" 0 1100 50 H I L CNN "device class L3"
+F10 "TVS DIODE 5V 9.2V DO214AA" 0 1200 50 H I L CNN "digikey description"
+F11 "SMBJ5.0CA-E3/52GICT-ND" 0 1300 50 H I L CNN "digikey part number"
+F12 "Bidirectional" 0 1400 50 H I L CNN "direction"
+F13 "https://www.vishay.com/docs/95401/smb.pdf" 0 1500 50 H I L CNN "footprint url"
+F14 "2.44mm" 0 1600 50 H I L CNN "height"
+F15 "yes" 0 1700 50 H I L CNN "lead free"
+F16 "55a89e78736674dd" 0 1800 50 H I L CNN "library id"
+F17 "Vishay" 0 1900 50 H I L CNN "manufacturer"
+F18 "+150°C" 0 2000 50 H I L CNN "max junction temp"
+F19 "TVS Diodes - Transient Voltage Suppressors 600W 5.0V 5% Bidir" 0 2100 50 H I L CNN "mouser description"
+F20 "625-SMBJ5.0CA-E3" 0 2200 50 H I L CNN "mouser part number"
+F21 "1" 0 2300 50 H I L CNN "number of channels"
+F22 "SMB" 0 2400 50 H I L CNN "package"
+F23 "65.2A" 0 2500 50 H I L CNN "peak pulse current"
+F24 "5V" 0 2600 50 H I L CNN "reverse standoff voltage"
+F25 "yes" 0 2700 50 H I L CNN "rohs"
+F26 "0mm" 0 2800 50 H I L CNN "standoff height"
+F27 "+150°C" 0 2900 50 H I L CNN "temperature range high"
+F28 "-55°C" 0 3000 50 H I L CNN "temperature range low"
+DRAW
+X 1 1 100 0 100 R 40 0 1 1 P 
+X 2 2 700 0 100 L 40 0 1 1 P 
+P 2 1 1 0 200 100 200 -100 N
+P 2 1 1 0 400 50 400 -50 N
+P 2 1 1 0 200 100 400 0 N
+P 2 1 1 0 200 -100 400 0 N
+P 2 1 1 0 400 50 450 100 N
+P 2 1 1 0 400 -50 350 -100 N
+P 2 1 1 0 400 0 600 100 N
+P 2 1 1 0 600 100 600 -100 N
+P 2 1 1 0 600 -100 400 0 N
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name DS1037_01_09FNAKSI74)(type Legacy)(uri ${KIPRJMOD}/lib/DS1037_01_09FNAKSI74/DS1037_01_09FNAKSI74.lib)(options "")(descr ""))
+  (lib (name T491A106K010AT)(type Legacy)(uri ${KIPRJMOD}/lib/T491A106K010AT/T491A106K010AT.lib)(options "")(descr ""))
+  (lib (name SMBJ5.0CA-E3_52)(type Legacy)(uri ${KIPRJMOD}/lib/SMBJ5.0CA-E3_52/SMBJ5.0CA-E3_52.lib)(options "")(descr ""))
+)
